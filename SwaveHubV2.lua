@@ -47,11 +47,11 @@ Close.Parent = TopBar
 Close.BackgroundColor3 = Color3.fromRGB(255, 60, 60)
 Close.BorderSizePixel = 0
 Close.Position = UDim2.new(1, -30, 0, 5)
-Close.Size = UDim2.new(0, 25, 0, 20)
-Close.Font = Enum.Font.Gotham
+Close.Size = UDim2.new(0,25, 0, 20)
+Close.Font = Enum.Font.ArialBold
 Close.Text = "X"
 Close.TextColor3 = Color3.fromRGB(255, 255, 255)
-Close.TextSize = 14
+Close.TextSize = 20
 
 ButtonHolder.Name = "ButtonHolder"
 ButtonHolder.Parent = MainFrame
