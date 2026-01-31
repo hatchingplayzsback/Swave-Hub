@@ -18,7 +18,7 @@ MainFrame.Parent = ScreenGui
 MainFrame.BackgroundColor3 = Color3.fromRGB(30, 30, 40)
 MainFrame.BorderSizePixel = 0
 MainFrame.Position = UDim2.new(0.100, 0, 0.3, 0)
-MainFrame.Size = UDim2.new(0, 300, 0, 490)
+MainFrame.Size = UDim2.new(0, 300, 0, 436)
 MainFrame.ClipsDescendants = true
 
 UICorner.CornerRadius = UDim.new(0, 8)
@@ -113,14 +113,13 @@ local buttonFunctions = {
     ["nameless"] = "https://raw.githubusercontent.com/ily123950/Vulkan/refs/heads/main/Tr",
     ["chilli"] = "https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua",
     ["tp block"] = "https://raw.githubusercontent.com/hatchingplayzsback/kanye-carpet-tp-block-crack/refs/heads/main/kanye.lua",
-    ["frost lagger"] = "https://api.luarmor.net/files/v4/loaders/631b34e178203bc4f117c37b2633c7fa.lua",
     ["kdml block"] = "https://raw.githubusercontent.com/sabscripts063-cloud/Kdml-Not-Me/refs/heads/main/BlockPlayer",
     ["Tolquis Speed Bypass"] = "https://api.luarmor.net/files/v4/loaders/eb57b35bcd1c591b904ed546ba7f8964.lua",
     ["Auto Collect"] = "https://raw.githubusercontent.com/hatchingplayzsback/sab-auto-collect-using-path/refs/heads/main/autocollect.lua",
     ["AutoBat with Brainrot"] = "https://api.luarmor.net/files/v4/loaders/cb8db3b0322db64651a0de29f50460a1.lua"
 }
 
-local buttonNames = {"nameless", "chilli", "tp block", "frost lagger", "kdml block", "Tolquis Speed Bypass", "Auto Collect", "AutoBat with Brainrot"}
+local buttonNames = {"nameless", "chilli", "tp block", "kdml block", "Tolquis Speed Bypass", "Auto Collect", "AutoBat with Brainrot"}
 
 --// Button Creation and Animation
 for i, name in ipairs(buttonNames) do
