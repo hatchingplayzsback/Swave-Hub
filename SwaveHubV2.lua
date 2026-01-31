@@ -120,7 +120,7 @@ local buttonFunctions = {
     ["AutoBat with Brainrot"] = "https://api.luarmor.net/files/v4/loaders/cb8db3b0322db64651a0de29f50460a1.lua"
 }
 
-local buttonNames = {"nameless", "chilli", "tp block", "frost lagger", "kdml block", "Talquis Speed Bypass", "Auto Collect", "AutoBat with Brainrot"}
+local buttonNames = {"nameless", "chilli", "tp block", "frost lagger", "kdml block", "Tolquis Speed Bypass", "Auto Collect", "AutoBat with Brainrot"}
 
 --// Button Creation and Animation
 for i, name in ipairs(buttonNames) do
