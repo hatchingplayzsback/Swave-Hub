@@ -182,4 +182,4 @@ for i, name in ipairs(buttonNames) do
 end
 
 --// Make sure GUI is on top
-ScreenGui.DisplayOrder = 999
+ScreenGui.DisplayOrder = 9999999999999999999999999
