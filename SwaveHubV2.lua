@@ -114,12 +114,12 @@ local buttonFunctions = {
     ["chilli"] = "https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua",
     ["tp block"] = "https://raw.githubusercontent.com/hatchingplayzsback/kanye-carpet-tp-block-crack/refs/heads/main/kanye.lua",
     ["kdml block"] = "https://raw.githubusercontent.com/sabscripts063-cloud/Kdml-Not-Me/refs/heads/main/BlockPlayer",
-    ["IceHub AP Spam"] = "https://api.luarmor.net/files/v4/loaders/de7fe264a0d1d0b4ee5d6d30777c8b44.lua",
+    ["FrostHub AP Spam"] = "https://api.luarmor.net/files/v4/loaders/de7fe264a0d1d0b4ee5d6d30777c8b44.lua",
     ["Auto Collect"] = "https://raw.githubusercontent.com/hatchingplayzsback/sab-auto-collect-using-path/refs/heads/main/autocollect.lua",
     ["Swave Tp (PATCHED)"] = "https://raw.githubusercontent.com/hatchingplayzsback/swave-tp/refs/heads/main/swavetp.lua"
 }
 
-local buttonNames = {"nameless", "chilli", "tp block", "kdml block", "IceHub AP Spam", "Auto Collect", "Swave Tp (PATCHED)"}
+local buttonNames = {"nameless", "chilli", "tp block", "kdml block", "FrostHub AP Spam", "Auto Collect", "Swave Tp (PATCHED)"}
 
 --// Button Creation and Animation
 for i, name in ipairs(buttonNames) do
