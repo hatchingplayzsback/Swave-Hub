@@ -113,13 +113,13 @@ local buttonFunctions = {
     ["nameless"] = "https://raw.githubusercontent.com/ily123950/Vulkan/refs/heads/main/Tr",
     ["chilli"] = "https://raw.githubusercontent.com/tienkhanh1/spicy/main/Chilli.lua",
     ["tp block"] = "https://raw.githubusercontent.com/hatchingplayzsback/kanye-carpet-tp-block-crack/refs/heads/main/kanye.lua",
-    ["kdml block"] = "https://raw.githubusercontent.com/sabscripts063-cloud/Kdml-Not-Me/refs/heads/main/BlockPlayer",
+    ["kdml block (DETECTED)"] = "https://raw.githubusercontent.com/sabscripts063-cloud/Kdml-Not-Me/refs/heads/main/BlockPlayer",
     ["FrostHub AP Spam"] = "https://api.luarmor.net/files/v4/loaders/7547d2fa667dcb231dd4fcec2b9a733b.lua",
     ["Auto Collect"] = "https://raw.githubusercontent.com/hatchingplayzsback/sab-auto-collect-using-path/refs/heads/main/autocollect.lua",
-    ["Swave Tp (PATCHED)"] = "https://raw.githubusercontent.com/hatchingplayzsback/swave-tp/refs/heads/main/swavetp.lua"
+    ["Swave Tp (WORKING)"] = "https://raw.githubusercontent.com/hatchingplayzsback/swave-tp/refs/heads/main/swavetp.lua"
 }
 
-local buttonNames = {"nameless", "chilli", "tp block", "kdml block", "FrostHub AP Spam", "Auto Collect", "Swave Tp (PATCHED)"}
+local buttonNames = {"nameless", "chilli", "tp block", "kdml block (DETECTED)", "FrostHub AP Spam", "Auto Collect", "Swave Tp (WORKING)"}
 
 --// Button Creation and Animation
 for i, name in ipairs(buttonNames) do
